@@ -1,4 +1,6 @@
 # learn_by_doing
+
+2019/6/26
 learn_by_doing_daily_work
 
 Introduction time series with R, 结构是why model, synthetic data, model and plotting 
@@ -10,5 +12,13 @@ Introduction time series with R, 结构是why model, synthetic data, model and p
 discrete-time stochastic process
 
 trend, season, correlated (serially dependent)
+
+
+2019/6/28
+https://pypi.org/project/dtaidistance/
+
+
+
+
 
 
