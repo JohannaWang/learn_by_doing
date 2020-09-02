@@ -62,8 +62,8 @@ mape在零点不可导，用其他的方法定义一个优化目标函数，或�
 gradient clipping, learning rate auto adjust 
 
 
-
-
+2020/9/2
+激活函数：https://www.jianshu.com/p/857d5859d2cc  
 
 
 
